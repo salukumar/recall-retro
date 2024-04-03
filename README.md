@@ -1,6 +1,5 @@
-# Recall Retro
-Recall Retro is an interactive and engaging fun game web application built using React.
-
+# recall-retro
+ A Memory Board interactive and engaging fun game web application built using React.
 
 
  In this game, users are presented with a grid of images, and their goal is to remember the previously clicked images. :muscle:           
