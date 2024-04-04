@@ -6,8 +6,9 @@
  If the user clicks on the same image twice, their score resets to zero. :upside_down_face:
 
 
-# Getting Started with Create React App
-
+                                                                   
+   
+                                                               
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
